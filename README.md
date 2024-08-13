@@ -32,8 +32,6 @@ A Python script to automate the cleanup of your Downloads folder by removing fil
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. Install any dependencies (none required for this project).
-
 ## Usage
 
 1. **Run the Script**:
